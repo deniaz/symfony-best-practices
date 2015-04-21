@@ -5,7 +5,7 @@ Some excerpts from the [Official Symfony Best Practices](http://symfony.com/doc/
 ## Creating the project
 > Always use [Composer](https://getcomposer.org/) to install Symfony.
 
-`composer create-project symfony/symfony-standard-edition blog/`
+`composer create-project symfony/framework-standard-edition blog/`
 
 ## The Application
 
